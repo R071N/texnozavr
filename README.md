@@ -1,2 +1,17 @@
-# vue-app
-Каталог товаров сделанный на vue 2
+# ТЕХНОЗАВРРР
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
